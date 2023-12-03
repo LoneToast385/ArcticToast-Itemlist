@@ -9373,12 +9373,6 @@
 		"defname": "SNS_Component_GenIII"
 	},
 	{
-		"abr": "anestheticgun",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "Gun_AnestheticGun"
-	},
-	{
 		"abr": "archotechsword",
 		"price": 4000,
 		"category": "Melee weapons",
@@ -9491,210 +9485,6 @@
 		"price": 200,
 		"category": "Furniture",
 		"defname": "BDsDisplay_Long"
-	},
-	{
-		"abr": "airpipe",
-		"price": 7,
-		"category": "Misc",
-		"defname": "BDP_AirPipe"
-	},
-	{
-		"abr": "undergroundairpipe",
-		"price": 13,
-		"category": "Misc",
-		"defname": "BDP_AirPipeUnderground"
-	},
-	{
-		"abr": "airbuffertank",
-		"price": 450,
-		"category": "Production",
-		"defname": "BDP_AirTankSmall"
-	},
-	{
-		"abr": "airinlet",
-		"price": 425,
-		"category": "Production",
-		"defname": "BDP_AirInlet"
-	},
-	{
-		"abr": "steamgeyserintake",
-		"price": 658,
-		"category": "Production",
-		"defname": "BDP_GeyserIntake"
-	},
-	{
-		"abr": "lizionpipe",
-		"price": 23,
-		"category": "Misc",
-		"defname": "BDP_LizionPipe"
-	},
-	{
-		"abr": "undergroundlizionpipe",
-		"price": 31,
-		"category": "Misc",
-		"defname": "BDP_LizionPipeUnderground"
-	},
-	{
-		"abr": "smallliziontank",
-		"price": 667,
-		"category": "Production",
-		"defname": "BDP_LizionTankSmall"
-	},
-	{
-		"abr": "largeliziontank",
-		"price": 6308,
-		"category": "Misc",
-		"defname": "BDP_LizionTankLarge"
-	},
-	{
-		"abr": "lizioncooler",
-		"price": 218,
-		"category": "Production",
-		"defname": "BDP_LizionCooler"
-	},
-	{
-		"abr": "lizionvalve",
-		"price": 218,
-		"category": "Production",
-		"defname": "BDP_LizionValve"
-	},
-	{
-		"abr": "extinguishershelf",
-		"price": 215,
-		"category": "Furniture",
-		"defname": "BDP_ExtinguisherShelf"
-	},
-	{
-		"abr": "lizionpopper",
-		"price": 300,
-		"category": "Misc",
-		"defname": "BDP_LizionFirePopper"
-	},
-	{
-		"abr": "smalllizionextractor",
-		"price": 2758,
-		"category": "Misc",
-		"defname": "BDP_LizionRefinerySmall"
-	},
-	{
-		"abr": "largelizionextractor",
-		"price": 10658,
-		"category": "Misc",
-		"defname": "BDP_LizionRefineryLarge"
-	},
-	{
-		"abr": "primitivegeyserlizioncollector",
-		"price": 218,
-		"category": "Production",
-		"defname": "BDP_PrimitiveGeyserCollector"
-	},
-	{
-		"abr": "largelizionfillingmachine",
-		"price": 908,
-		"category": "Production",
-		"defname": "BDP_LizionFillerLarge"
-	},
-	{
-		"abr": "duallizionblasterturret",
-		"price": 6092,
-		"category": "Misc",
-		"defname": "BDP_Turret_Plasma"
-	},
-	{
-		"abr": "heavylizionturret",
-		"price": 6092,
-		"category": "Misc",
-		"defname": "BDP_Turret_Plasmaheavy"
-	},
-	{
-		"abr": "smalllizionturret",
-		"price": 1783,
-		"category": "Security",
-		"defname": "BDP_Turret_PlasmaSmall"
-	},
-	{
-		"abr": "mannedlizionturret",
-		"price": 1567,
-		"category": "Security",
-		"defname": "BDP_Turret_PlasmaSmallManned"
-	},
-	{
-		"abr": "lizionextinguisherturret",
-		"price": 1025,
-		"category": "Misc",
-		"defname": "BDP_Turret_Extinguisher"
-	},
-	{
-		"abr": "class-4aplasmaaccelerator",
-		"price": 33675,
-		"category": "Misc",
-		"defname": "BDP_Turret_PlasmaHuge"
-	},
-	{
-		"abr": "lizontankbackpack",
-		"price": 1458,
-		"category": "Utility",
-		"defname": "BDP_LizionTankBackpack"
-	},
-	{
-		"abr": "f58a2plasmathrower",
-		"price": 4942,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaFlameThrower"
-	},
-	{
-		"abr": "f50-lextinguisher",
-		"price": 608,
-		"category": "Ranged weapons",
-		"defname": "BDP_FireExtinguisher"
-	},
-	{
-		"abr": "mg38aliziongpmg",
-		"price": 3100,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaLMG"
-	},
-	{
-		"abr": "ar32clizioncarbine",
-		"price": 2608,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaCarbine"
-	},
-	{
-		"abr": "p3066lizionpistol",
-		"price": 1158,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaPistol"
-	},
-	{
-		"abr": "mp19lizionsmg",
-		"price": 2042,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaSMG"
-	},
-	{
-		"abr": "m19lizionsniperrifle",
-		"price": 3242,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaSniper"
-	},
-	{
-		"abr": "ra-870lizionshotgun",
-		"price": 2992,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaShotgun"
-	},
-	{
-		"abr": "hitm2203lizioncannon",
-		"price": 4975,
-		"category": "Ranged weapons",
-		"defname": "BDP_PlasmaCannon"
-	},
-	{
-		"abr": "replacementaccelerator",
-		"price": 1167,
-		"category": "Manufactured",
-		"defname": "BDP_ReplacementAccelerator"
 	},
 	{
 		"abr": "maul",
@@ -10855,12 +10645,6 @@
 		"defname": "Eccentric_FlareGun"
 	},
 	{
-		"abr": "illuminationshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Eccentric_IlluminationShell"
-	},
-	{
 		"abr": "e15chargeriflewithtagm",
 		"price": 2158,
 		"category": "Ranged weapons",
@@ -11605,348 +11389,6 @@
 		"defname": "MooMF_MythMaker"
 	},
 	{
-		"abr": "generalhelmet",
-		"price": 500,
-		"category": "Moosesian headgear",
-		"defname": "WFF_GeneralPickhat"
-	},
-	{
-		"abr": "vanguardpickhat",
-		"price": 442,
-		"category": "Moosesian headgear",
-		"defname": "WFF_VanguardPickhat"
-	},
-	{
-		"abr": "stormtroopercap",
-		"price": 442,
-		"category": "Moosesian headgear",
-		"defname": "WFF_StormtrooperCap"
-	},
-	{
-		"abr": "ironhide",
-		"price": 1042,
-		"category": "Moosesian apparel",
-		"defname": "WFF_Ironhide"
-	},
-	{
-		"abr": "ironhelm",
-		"price": 312,
-		"category": "Moosesian headgear",
-		"defname": "WFF_Ironhelm"
-	},
-	{
-		"abr": "moosesianbra",
-		"price": 95,
-		"category": "Moosesian apparel",
-		"defname": "WFF_MSBra"
-	},
-	{
-		"abr": "moosesianpanties",
-		"price": 76,
-		"category": "Moosesian apparel",
-		"defname": "WFF_MSPanties"
-	},
-	{
-		"abr": "surgicalapron",
-		"price": 350,
-		"category": "Moosesian apparel",
-		"defname": "WFF_SurgicalApron"
-	},
-	{
-		"abr": "infirmieruniform",
-		"price": 425,
-		"category": "Moosesian apparel",
-		"defname": "WFF_InfirmierUniform"
-	},
-	{
-		"abr": "generaluniform",
-		"price": 608,
-		"category": "Moosesian apparel",
-		"defname": "WFF_GeneralUniform"
-	},
-	{
-		"abr": "general'sbicorne",
-		"price": 155,
-		"category": "Moosesian headgear",
-		"defname": "WFF_GeneralBicorne"
-	},
-	{
-		"abr": "guarduniform",
-		"price": 425,
-		"category": "Moosesian apparel",
-		"defname": "WFF_GuardUniform"
-	},
-	{
-		"abr": "oldguard'sbearskin",
-		"price": 230,
-		"category": "Moosesian headgear",
-		"defname": "WFF_OldGuardBearskin"
-	},
-	{
-		"abr": "guard'sbearskin",
-		"price": 230,
-		"category": "Moosesian headgear",
-		"defname": "WFF_GuardBearskin"
-	},
-	{
-		"abr": "vanguarduniform",
-		"price": 475,
-		"category": "Moosesian apparel",
-		"defname": "WFF_VanguardUniform"
-	},
-	{
-		"abr": "skirmishshako",
-		"price": 118,
-		"category": "Moosesian headgear",
-		"defname": "WFF_SkirmishShako"
-	},
-	{
-		"abr": "vanguardshako",
-		"price": 118,
-		"category": "Moosesian headgear",
-		"defname": "WFF_VanguardShako"
-	},
-	{
-		"abr": "warrioruniform",
-		"price": 425,
-		"category": "Moosesian apparel",
-		"defname": "WFF_WarriorUniform"
-	},
-	{
-		"abr": "warriorshako",
-		"price": 118,
-		"category": "Moosesian headgear",
-		"defname": "WFF_WarriorShako"
-	},
-	{
-		"abr": "militiaoutfit",
-		"price": 333,
-		"category": "Moosesian apparel",
-		"defname": "WFF_MilitiaOutfit"
-	},
-	{
-		"abr": "militiacap",
-		"price": 100,
-		"category": "Moosesian headgear",
-		"defname": "WFF_MilitiaCap"
-	},
-	{
-		"abr": "farmoveralls",
-		"price": 286,
-		"category": "Moosesian apparel",
-		"defname": "WFF_FarmOveralls"
-	},
-	{
-		"abr": "sunhelmet",
-		"price": 95,
-		"category": "Moosesian headgear",
-		"defname": "WFF_FarmerSunhelm"
-	},
-	{
-		"abr": "ceremonialdress",
-		"price": 367,
-		"category": "Moosesian apparel",
-		"defname": "WFF_CeremonialDress"
-	},
-	{
-		"abr": "flowercrown",
-		"price": 112,
-		"category": "Moosesian headgear",
-		"defname": "WFF_Flowercrown"
-	},
-	{
-		"abr": "civilianwear",
-		"price": 342,
-		"category": "Moosesian apparel",
-		"defname": "WFF_Civilianwear"
-	},
-	{
-		"abr": "moosesianslaveoutfit",
-		"price": 285,
-		"category": "Moosesian apparel",
-		"defname": "WFF_MSSlaveOutfit"
-	},
-	{
-		"abr": "ancestralwear",
-		"price": 342,
-		"category": "Moosesian apparel",
-		"defname": "WFF_Ancestralwear"
-	},
-	{
-		"abr": "furhat",
-		"price": 206,
-		"category": "Moosesian headgear",
-		"defname": "WFF_FurHat"
-	},
-	{
-		"abr": "moosesian",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Moosesian"
-	},
-	{
-		"abr": "moosesian12-pdrgun",
-		"price": 633,
-		"category": "Security",
-		"defname": "MS_ArtilleryCannonBase12pdr"
-	},
-	{
-		"abr": "conductorwand",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "WFF_Conductor_Wand"
-	},
-	{
-		"abr": "woodpecker",
-		"price": 750,
-		"category": "Melee weapons",
-		"defname": "WFF_Headcutter"
-	},
-	{
-		"abr": "horsepole",
-		"price": 833,
-		"category": "Melee weapons",
-		"defname": "WFF_Horsepole"
-	},
-	{
-		"abr": "ironheap",
-		"price": 833,
-		"category": "Melee weapons",
-		"defname": "WFF_Ironheap"
-	},
-	{
-		"abr": "manchaser",
-		"price": 274,
-		"category": "Melee weapons",
-		"defname": "WFF_Manchaser"
-	},
-	{
-		"abr": "pikecutter",
-		"price": 833,
-		"category": "Melee weapons",
-		"defname": "WFF_Pikebreaker"
-	},
-	{
-		"abr": "signalsaber",
-		"price": 1250,
-		"category": "Melee weapons",
-		"defname": "WFF_Signal_Saber"
-	},
-	{
-		"abr": "alouisrifle",
-		"price": 1583,
-		"category": "Ranged weapons",
-		"defname": "WFF_AlouisRifle"
-	},
-	{
-		"abr": "critterfowler",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "WFF_Antkiller"
-	},
-	{
-		"abr": "antlerbreaker",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "WFF_Antlerbreaker"
-	},
-	{
-		"abr": "antrifle",
-		"price": 417,
-		"category": "Ranged weapons",
-		"defname": "WFF_Antrifle"
-	},
-	{
-		"abr": "archwood",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "WFF_Archwood"
-	},
-	{
-		"abr": "autoratcannon",
-		"price": 1917,
-		"category": "Ranged weapons",
-		"defname": "WFF_AutoRatling"
-	},
-	{
-		"abr": "berthierlinegun",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "WFF_BLG"
-	},
-	{
-		"abr": "branchlever",
-		"price": 1500,
-		"category": "Ranged weapons",
-		"defname": "WFF_BranchGun"
-	},
-	{
-		"abr": "dieselboiler",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "WFF_Dieselboiler"
-	},
-	{
-		"abr": "dieselwork",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "WFF_Dieselwork"
-	},
-	{
-		"abr": "firefly",
-		"price": 1333,
-		"category": "Ranged weapons",
-		"defname": "WFF_Firefly"
-	},
-	{
-		"abr": "firehorn",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "WFF_Firehorn"
-	},
-	{
-		"abr": "firespitter",
-		"price": 667,
-		"category": "Ranged weapons",
-		"defname": "WFF_Firespitter"
-	},
-	{
-		"abr": "handratling",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "WFF_HandRatling"
-	},
-	{
-		"abr": "metalbuss",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "WFF_Metalbuss"
-	},
-	{
-		"abr": "rakali",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "WFF_Rakali"
-	},
-	{
-		"abr": "rokali",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "WFF_Rokali"
-	},
-	{
-		"abr": "ironspin",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "WFF_Spinner"
-	},
-	{
-		"abr": "trunkgun",
-		"price": 1167,
-		"category": "Ranged weapons",
-		"defname": "WFF_TrunkGun"
-	},
-	{
 		"abr": "vanometricstomach",
 		"price": 4667,
 		"category": "Archotech",
@@ -11975,102 +11417,6 @@
 		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechNanoskin"
-	},
-	{
-		"abr": "turretdrone",
-		"price": 1800,
-		"category": "Misc",
-		"defname": "PLA_BuildingTurretDrone"
-	},
-	{
-		"abr": "lynx6x6ultralight",
-		"price": 6817,
-		"category": "Misc",
-		"defname": "PLA_BuildingLynx6x6UL"
-	},
-	{
-		"abr": "csz-181off-road",
-		"price": 15033,
-		"category": "Misc",
-		"defname": "PLA_BuildingCSZ181OffRoad"
-	},
-	{
-		"abr": "vp-22truck",
-		"price": 21333,
-		"category": "Misc",
-		"defname": "PLA_BuildingVP22Truck"
-	},
-	{
-		"abr": "ztl-11infantryfightingvehicle",
-		"price": 24867,
-		"category": "Misc",
-		"defname": "PLA_BuildingZTLL11IFV"
-	},
-	{
-		"abr": "ztz-99amainbattletank",
-		"price": 33417,
-		"category": "Misc",
-		"defname": "PLA_BuildingZTZ99A"
-	},
-	{
-		"abr": "vehiclemodificationkit-type89hmg",
-		"price": 1367,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon89HMG"
-	},
-	{
-		"abr": "vehiclemodificationkit-type-04grenadelauncher",
-		"price": 1367,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon04GL"
-	},
-	{
-		"abr": "vehiclemodificationkit-30mmautocannon",
-		"price": 2000,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon30mmAutocannon"
-	},
-	{
-		"abr": "advancedadvanced-firecontrolcomputer",
-		"price": 1900,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_AdvancedFireControlComputer"
-	},
-	{
-		"abr": "compositearmor",
-		"price": 2208,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_CompositeArmor"
-	},
-	{
-		"abr": "vehiclemodificationkit-23mmautocannon",
-		"price": 1367,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon23mmAutocannon"
-	},
-	{
-		"abr": "vehiclemodificationkit-40mmctcannon",
-		"price": 1650,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon40mmCannon"
-	},
-	{
-		"abr": "vehiclemodificationkit-107mmrocketlauncher",
-		"price": 1842,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon107mmRocketLauncher"
-	},
-	{
-		"abr": "vehiclemodificationkit-105mmcannon",
-		"price": 2283,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon105mmCannon"
-	},
-	{
-		"abr": "vehiclemodificationkit-40mmautoctcannon",
-		"price": 2283,
-		"category": "Vehicle modification kit",
-		"defname": "PLA_VehicleWeapon40mmAutoCannon"
 	},
 	{
 		"abr": "personaplasmasaw",
@@ -13909,12 +13255,6 @@
 		"defname": "CE_Gun_MicroUzi"
 	},
 	{
-		"abr": "mini-14",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "CE_Gun_MiniFourteen"
-	},
-	{
 		"abr": "mosin–nagant",
 		"price": 330,
 		"category": "Ranged weapons",
@@ -14039,42 +13379,6 @@
 		"price": 3658,
 		"category": "Ranged weapons",
 		"defname": "HRK_STALKER_Gauss_Sniper"
-	},
-	{
-		"abr": "plasmapipe",
-		"price": 10,
-		"category": "Misc",
-		"defname": "ShieldGen_PlasmaPipe"
-	},
-	{
-		"abr": "plasmapipe(underground)",
-		"price": 10,
-		"category": "Misc",
-		"defname": "ShieldGen_PlasmaPipeUnderground"
-	},
-	{
-		"abr": "shieldgenerator(astroglide)",
-		"price": 3083,
-		"category": "Security",
-		"defname": "ShieldGen_Shield_Astroglide"
-	},
-	{
-		"abr": "coolingplug",
-		"price": 1425,
-		"category": "Security",
-		"defname": "ShieldGen_CoolingPlug"
-	},
-	{
-		"abr": "shieldgenerator(durex)",
-		"price": 4300,
-		"category": "Misc",
-		"defname": "ShieldGen_Shield_Durex"
-	},
-	{
-		"abr": "shieldgenerator(trojan)",
-		"price": 8308,
-		"category": "Misc",
-		"defname": "ShieldGen_Shield_Trojan"
 	},
 	{
 		"abr": "sign",
@@ -19921,504 +19225,6 @@
 		"defname": "JE_ZombieJoris"
 	},
 	{
-		"abr": "moyoheart",
-		"price": 1083,
-		"category": "Natural",
-		"defname": "Moyo_Heart"
-	},
-	{
-		"abr": "moyoroyalsuit",
-		"price": 1583,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Royalsuit"
-	},
-	{
-		"abr": "moyoroyalrobea",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalRobeA"
-	},
-	{
-		"abr": "moyoroyalrobeb",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalRobeB"
-	},
-	{
-		"abr": "moyoroyalrobec",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalRobeC"
-	},
-	{
-		"abr": "moyoexoticblackdress",
-		"price": 1417,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalBlackDress"
-	},
-	{
-		"abr": "moyoholosuit",
-		"price": 1617,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Holosuit"
-	},
-	{
-		"abr": "moyoholojacket",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_HoloJacket"
-	},
-	{
-		"abr": "moyominiholoprojectora",
-		"price": 367,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_RoyalHologramA"
-	},
-	{
-		"abr": "moyominiholoprojectorb",
-		"price": 367,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_RoyalHologramB"
-	},
-	{
-		"abr": "moyominiholoprojectorc",
-		"price": 367,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_RoyalHologramC"
-	},
-	{
-		"abr": "moyoroyalguardarmor",
-		"price": 7392,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_GDsuit"
-	},
-	{
-		"abr": "moyoroyalguardhelmet",
-		"price": 2908,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_GDhelmet"
-	},
-	{
-		"abr": "moyoroyalguardlightarmor",
-		"price": 5392,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_GSsuit"
-	},
-	{
-		"abr": "moyoroyalguardlighthelmet",
-		"price": 2742,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_GShelmet"
-	},
-	{
-		"abr": "moyobodywrappings",
-		"price": 211,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Tribal"
-	},
-	{
-		"abr": "moyoparka",
-		"price": 315,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Parka"
-	},
-	{
-		"abr": "moyoslaverestrainer",
-		"price": 275,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_BodyStrap"
-	},
-	{
-		"abr": "moyoshirtandboots",
-		"price": 297,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_SnB"
-	},
-	{
-		"abr": "moyojacket",
-		"price": 275,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Jacket"
-	},
-	{
-		"abr": "moyoduster",
-		"price": 327,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Duster"
-	},
-	{
-		"abr": "moyotuque",
-		"price": 91,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_Tuque"
-	},
-	{
-		"abr": "moyocowboyhat",
-		"price": 94,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_CowboyHat"
-	},
-	{
-		"abr": "moyobowlerhat",
-		"price": 77,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_BowlerHat"
-	},
-	{
-		"abr": "moyobodysuit",
-		"price": 542,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Bodysuit"
-	},
-	{
-		"abr": "moyoengineeringgear",
-		"price": 617,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_EGsuit"
-	},
-	{
-		"abr": "moyoweldingmask",
-		"price": 281,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_EGmask"
-	},
-	{
-		"abr": "moyocompositebodysuit",
-		"price": 1042,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Evasuit"
-	},
-	{
-		"abr": "moyodeepdivinggear",
-		"price": 5283,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_DDgear"
-	},
-	{
-		"abr": "moyodeepdivinghelmet",
-		"price": 1700,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_DDhelmet"
-	},
-	{
-		"abr": "moyodivinggear",
-		"price": 4425,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_LDgear"
-	},
-	{
-		"abr": "moyodivinghelmet",
-		"price": 1425,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_LDhelmet"
-	},
-	{
-		"abr": "moyosensorycontrolhelmet(soothing)",
-		"price": 1033,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_PShelmet"
-	},
-	{
-		"abr": "moyosensorycontrolhelmet(supressing)",
-		"price": 1033,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_SShelmet"
-	},
-	{
-		"abr": "fakemoyotail",
-		"price": 240,
-		"category": "Prosthetic",
-		"defname": "Moyo_FakeTail"
-	},
-	{
-		"abr": "bionicmoyotail",
-		"price": 1583,
-		"category": "Bionic",
-		"defname": "Moyo_BionicTail"
-	},
-	{
-		"abr": "abysstechheart",
-		"price": 3458,
-		"category": "Bionic",
-		"defname": "Moyo_AdvancedHeart"
-	},
-	{
-		"abr": "abyssteel",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "Moyo_Abyssteel"
-	},
-	{
-		"abr": "depthweave",
-		"price": 7,
-		"category": "Textiles",
-		"defname": "Moyo_Depthweave"
-	},
-	{
-		"abr": "abyssalpearl",
-		"price": 1333,
-		"category": "Manufactured",
-		"defname": "Moyo_AbyssPearl"
-	},
-	{
-		"abr": "moyowrench",
-		"price": 251,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Wrench"
-	},
-	{
-		"abr": "moyodivingknife",
-		"price": 475,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Knife"
-	},
-	{
-		"abr": "moyopiledriver",
-		"price": 717,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Piledriver"
-	},
-	{
-		"abr": "moyobattleaxe",
-		"price": 2025,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_Spear"
-	},
-	{
-		"abr": "moyopowerfist",
-		"price": 1750,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_PowerFist"
-	},
-	{
-		"abr": "moyoroyalbattleaxe",
-		"price": 2867,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_GDSpear"
-	},
-	{
-		"abr": "moyoroyalpowerfist",
-		"price": 2867,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_GDPowerFist"
-	},
-	{
-		"abr": "moyonailgun",
-		"price": 600,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_Pistol"
-	},
-	{
-		"abr": "moyochargerifle",
-		"price": 1883,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_ChargeRifle"
-	},
-	{
-		"abr": "moyoprecisionrifle",
-		"price": 1800,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_PrecisionRifle"
-	},
-	{
-		"abr": "moyochargesmg",
-		"price": 1500,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_ChargeSMG"
-	},
-	{
-		"abr": "moyobalista",
-		"price": 2783,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_BoltCaster"
-	},
-	{
-		"abr": "moyoautocannon",
-		"price": 2900,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_AutoCannon"
-	},
-	{
-		"abr": "moyoroyalchargerifle",
-		"price": 2683,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyChargeRifle"
-	},
-	{
-		"abr": "moyoroyalautocannon",
-		"price": 3717,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyAutoCannon"
-	},
-	{
-		"abr": "moyoroyalbalista",
-		"price": 3717,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyBoltCaster"
-	},
-	{
-		"abr": "moyocryoblaster",
-		"price": 2783,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CryoBlaster"
-	},
-	{
-		"abr": "deepbluestation",
-		"price": 2500,
-		"category": "Production",
-		"defname": "Moyo_DBS"
-	},
-	{
-		"abr": "largedeepbluestation",
-		"price": 8333,
-		"category": "Misc",
-		"defname": "Moyo_DBLS"
-	},
-	{
-		"abr": "nutritionpack",
-		"price": 25,
-		"category": "Manufactured",
-		"defname": "Moyo_DBSF"
-	},
-	{
-		"abr": "smallabyssalpearlsculpture",
-		"price": 8275,
-		"category": "Art",
-		"defname": "PearlSculptureSmall"
-	},
-	{
-		"abr": "largeabyssalpearlsculpture",
-		"price": 16517,
-		"category": "Art",
-		"defname": "PearlSculptureLarge"
-	},
-	{
-		"abr": "grandabyssalpearlsculpture",
-		"price": 65967,
-		"category": "Art",
-		"defname": "PearlSculptureGrand"
-	},
-	{
-		"abr": "abysstechpersonaadvisermodule",
-		"price": 10567,
-		"category": "Misc",
-		"defname": "MoyoGRModule"
-	},
-	{
-		"abr": "blueburst",
-		"price": 120,
-		"category": "Drugs",
-		"defname": "BlueBurst"
-	},
-	{
-		"abr": "regene-blue",
-		"price": 167,
-		"category": "Drugs",
-		"defname": "BlueMed"
-	},
-	{
-		"abr": "penoxy-blue",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "PenoxyBlue"
-	},
-	{
-		"abr": "clear-azure",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "Clensazure"
-	},
-	{
-		"abr": "sustainer-lapis",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "SustainerLapis"
-	},
-	{
-		"abr": "detoxer-cobalt",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "DetoxerCobalt"
-	},
-	{
-		"abr": "bluemed",
-		"price": 70,
-		"category": "Medicine",
-		"defname": "MoyoMedicine"
-	},
-	{
-		"abr": "morphi-blue",
-		"price": 120,
-		"category": "Drugs",
-		"defname": "BlueGo"
-	},
-	{
-		"abr": "sapphiremeth",
-		"price": 58,
-		"category": "Drugs",
-		"defname": "BlueUp"
-	},
-	{
-		"abr": "bluehaze",
-		"price": 75,
-		"category": "Drugs",
-		"defname": "BlueYo"
-	},
-	{
-		"abr": "abysstechhealermechserum",
-		"price": 4167,
-		"category": "Items",
-		"defname": "Moyo_HealerSerum"
-	},
-	{
-		"abr": "abysstechneurotrainerserum(combat)",
-		"price": 4167,
-		"category": "Abysstech neurotrainer",
-		"defname": "Moyo_neuroSerum_combat"
-	},
-	{
-		"abr": "abysstechneurotrainerserum(labor)",
-		"price": 4167,
-		"category": "Abysstech neurotrainer",
-		"defname": "Moyo_neuroSerum_labor"
-	},
-	{
-		"abr": "abysstechneurotrainerserum(housekeeping)",
-		"price": 4167,
-		"category": "Abysstech neurotrainer",
-		"defname": "Moyo_neuroSerum_housekeeping"
-	},
-	{
-		"abr": "abysstechneurotrainerserum(craftsmanship)",
-		"price": 4167,
-		"category": "Abysstech neurotrainer",
-		"defname": "Moyo_neuroSerum_craftsmanship"
-	},
-	{
-		"abr": "belial-v",
-		"price": 833,
-		"category": "Drugs",
-		"defname": "Moyo_BelialV"
-	},
-	{
-		"abr": "moyobloodbag",
-		"price": 33,
-		"category": "Manufactured",
-		"defname": "Moyo_BloodBag"
-	},
-	{
-		"abr": "deepblueserum",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "AbyssSerum"
-	},
-	{
-		"abr": "moyo",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Moyo"
-	},
-	{
 		"abr": "beachchair",
 		"price": 275,
 		"category": "Furniture",
@@ -21841,18 +20647,6 @@
 		"defname": "VREA_Wolfgirl_Tail"
 	},
 	{
-		"abr": "artificialantler",
-		"price": 333,
-		"category": "Android body parts",
-		"defname": "VREA_MS_Antler"
-	},
-	{
-		"abr": "artificialtail",
-		"price": 276,
-		"category": "Android body parts",
-		"defname": "VREA_Moyo_Tail"
-	},
-	{
 		"abr": "bearmeat",
 		"price": 3,
 		"category": "Meat",
@@ -22279,12 +21073,6 @@
 		"defname": "Meat_MG_Wolfgirl"
 	},
 	{
-		"abr": "moosesianmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Moosesian"
-	},
-	{
 		"abr": "syntheticmeat",
 		"price": 3,
 		"category": "Meat",
@@ -22361,12 +21149,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_JE_PerfectlyNormalJoris"
-	},
-	{
-		"abr": "moyomeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Alien_Moyo"
 	},
 	{
 		"abr": "techprint(cataphractarmor)",
@@ -24485,7 +23267,529 @@
 		"price": 13,
 		"category": "Drugs",
 		"defname": "VBE_Yuenyeung"
+	},
+	{
+		"abr": "81mmmortarshell(illumination)",
+		"price": 50,
+		"category": "81mm mortar shell",
+		"defname": "Shell_Illumination"
+	},
+	{
+		"abr": "accatranmkiv",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "GW_AM_Gun_Accatranfive"
+	},
+	{
+		"abr": "adamantium",
+		"price": 250,
+		"category": "Raw resources",
+		"defname": "HP_Adamantium"
+	},
+	{
+		"abr": "adornedbloodyskull",
+		"price": 250,
+		"category": "Ritual Items",
+		"defname": "BEWH_KhorneItem"
+	},
+	{
+		"abr": "advancedmedkit",
+		"price": 37,
+		"category": "Medicine",
+		"defname": "AdvancedMedkit"
+	},
+	{
+		"abr": "agripinaamkii",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "Gun_Agripinaamkii"
+	},
+	{
+		"abr": "airdrop",
+		"price": 1,
+		"category": "Misc",
+		"defname": "Airdrop"
+	},
+	{
+		"abr": "ancientgrimoire",
+		"price": 833,
+		"category": "Ritual Items",
+		"defname": "BEWH_TzeentchItem"
+	},
+	{
+		"abr": "arcmaul",
+		"price": 3708,
+		"category": "Melee weapons",
+		"defname": "GF40K_MechanicusArcMaul"
+	},
+	{
+		"abr": "arcpistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GF40K_ArkPistol"
+	},
+	{
+		"abr": "arcrifle",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GF40K_ArkRifle"
+	},
+	{
+		"abr": "astartesbolter",
+		"price": 3325,
+		"category": "Ranged weapons",
+		"defname": "Bolter_Gun_Bolter"
+	},
+	{
+		"abr": "astramilitarummeltagun",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "HP_AM_Gun_MeltaGun"
+	},
+	{
+		"abr": "astramilitarumplasmagun",
+		"price": 4742,
+		"category": "Ranged weapons",
+		"defname": "HP_AM_Gun_PlasmaGun"
+	},
+	{
+		"abr": "auramite",
+		"price": 500,
+		"category": "Raw resources",
+		"defname": "HP_Auramite"
+	},
+	{
+		"abr": "automatedgenetor",
+		"price": 3533,
+		"category": "Misc",
+		"defname": "BEWH_GeneseedGenetor"
+	},
+	{
+		"abr": "blacktemplarcombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_BlackTemplars-CombatShield"
+	},
+	{
+		"abr": "blacktemplargravisarmor",
+		"price": 18750,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BT_GravisArmor"
+	},
+	{
+		"abr": "blacktemplargravishelmet",
+		"price": 9825,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_BT_GravisHelmet"
+	},
+	{
+		"abr": "blacktemplarlieutenantmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_BT_MkXHelmet"
+	},
+	{
+		"abr": "blacktemplarmkviiaquillaarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BT_MkVIIArmor"
+	},
+	{
+		"abr": "blacktemplarmkviihelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_BT_MkVIIHelmet"
+	},
+	{
+		"abr": "blacktemplarmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_BT_MkXHelmet"
+	},
+	{
+		"abr": "blacktemplarmkxtacticusarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BT_MkXArmor"
+	},
+	{
+		"abr": "blacktemplarstormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_BlackTemplars-StormShield"
+	},
+	{
+		"abr": "blankpotentialenhancer",
+		"price": 3533,
+		"category": "Misc",
+		"defname": "BEWH_BlankPotentialEnhancer"
+	},
+	{
+		"abr": "bloodangelcombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_BloodAngels-CombatShield"
+	},
+	{
+		"abr": "bloodangelgravisarmor",
+		"price": 18750,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BL_GravisArmor"
+	},
+	{
+		"abr": "bloodangelgravishelmet",
+		"price": 9825,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_BL_GravisHelmet"
+	},
+	{
+		"abr": "bloodangellieutenantmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_BL_MkXHelmet"
+	},
+	{
+		"abr": "bloodangelmkviiaquillaarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BL_MkVIIArmor"
+	},
+	{
+		"abr": "bloodangelmkviihelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_BL_MkVIIHelmet"
+	},
+	{
+		"abr": "bloodangelmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_BL_MkXHelmet"
+	},
+	{
+		"abr": "bloodangelmkxtacticusarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BL_MkXArmor"
+	},
+	{
+		"abr": "bloodangelstormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_BloodAngels-StormShield"
+	},
+	{
+		"abr": "bloodravencombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_BloodRavens-CombatShield"
+	},
+	{
+		"abr": "bloodravengravisarmor",
+		"price": 18750,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BR_GravisArmor"
+	},
+	{
+		"abr": "bloodravengravishelmet",
+		"price": 9825,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_BR_GravisHelmet"
+	},
+	{
+		"abr": "bloodravenlieutenantmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_BR_MkXHelmet"
+	},
+	{
+		"abr": "bloodravenmkviiaquillaarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BR_MkVIIArmor"
+	},
+	{
+		"abr": "bloodravenmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_BR_MkXHelmet"
+	},
+	{
+		"abr": "bloodravenmkxtacticusarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_BR_MkXArmor"
+	},
+	{
+		"abr": "bloodravenstormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_BloodRavens-StormShield"
+	},
+	{
+		"abr": "bloodravensmkviihelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_BR_MkVIIHelmet"
+	},
+	{
+		"abr": "boltpistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GF40K_BoltPistol"
+	},
+	{
+		"abr": "boltsniperrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_BoltSniper"
+	},
+	{
+		"abr": "boltgun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "GF40K_BoltGun"
+	},
+	{
+		"abr": "breachedembrasure",
+		"price": 17,
+		"category": "Misc",
+		"defname": "CE_Embrasure_Destr_Climbable"
+	},
+	{
+		"abr": "cadiancrushercap",
+		"price": 160,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_Cadian_CrusherCap"
+	},
+	{
+		"abr": "cadianfatigues",
+		"price": 291,
+		"category": "Apparel",
+		"defname": "ODZ_40k_IG_Cadian_Fatigues"
+	},
+	{
+		"abr": "cadianfieldcap",
+		"price": 108,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_Cadian_Fieldcap"
+	},
+	{
+		"abr": "cadianflakarmor",
+		"price": 367,
+		"category": "Armor",
+		"defname": "ODZ_40k_IG_Cadian_FlakArmor"
+	},
+	{
+		"abr": "cadianhelmet",
+		"price": 246,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_Cadian_Helmet"
+	},
+	{
+		"abr": "capturedblankpotential",
+		"price": 1667,
+		"category": "Ritual Items",
+		"defname": "BEWH_PariahItem"
+	},
+	{
+		"abr": "capturedpsychicpotential",
+		"price": 1667,
+		"category": "Ritual Items",
+		"defname": "BEWH_PsykerItem"
+	},
+	{
+		"abr": "carcharodoncombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_Carcharodons-CombatShield"
+	},
+	{
+		"abr": "carcharodongravisarmor",
+		"price": 18750,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_CAR_GravisArmor"
+	},
+	{
+		"abr": "carcharodongravishelmet",
+		"price": 9825,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_CAR_GravisHelmet"
+	},
+	{
+		"abr": "carcharodonlieutenantmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_CAR_MkXHelmet"
+	},
+	{
+		"abr": "carcharodonmkviiaquillaarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_CAR_MkVIIArmor"
+	},
+	{
+		"abr": "carcharodonmkviihelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_CAR_MkVIIHelmet"
+	},
+	{
+		"abr": "carcharodonmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_CAR_MkXHelmet"
+	},
+	{
+		"abr": "carcharodonmkxtacticusarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_CAR_MkXArmor"
+	},
+	{
+		"abr": "carcharodonstormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_Carcharodons-StormShield"
+	},
+	{
+		"abr": "ceramite",
+		"price": 25,
+		"category": "Raw resources",
+		"defname": "HP_Ceramite"
+	},
+	{
+		"abr": "chainshortsword",
+		"price": 692,
+		"category": "Melee weapons",
+		"defname": "GW_AM_MeleeWeapon_Chainshortsword"
+	},
+	{
+		"abr": "chainsword",
+		"price": 1600,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Chainsword_GrimWorld"
+	},
+	{
+		"abr": "chainsword",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "GF40K_ChainSword"
+	},
+	{
+		"abr": "chainsword",
+		"price": 917,
+		"category": "Melee weapons",
+		"defname": "GW_AM_MeleeWeapon_Chainsword"
+	},
+	{
+		"abr": "corpsestarch",
+		"price": 2,
+		"category": "Foods",
+		"defname": "CorpseStarch"
+	},
+	{
+		"abr": "crossguardpowersword",
+		"price": 2117,
+		"category": "Melee weapons",
+		"defname": "GW_AM_MeleeWeapon_PowerSwordtwo"
+	},
+	{
+		"abr": "daemonetteclaw",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_DaemonetteClaw"
+	},
+	{
+		"abr": "daggeroftzeentch",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "BEWH_PinkHorrorDagger"
+	},
+	{
+		"abr": "darkangelcombatshield",
+		"price": 290,
+		"category": "Shields",
+		"defname": "GW_DarkAngels-CombatShield"
+	},
+	{
+		"abr": "darkangelgravisarmor",
+		"price": 18750,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_DA_GravisArmor"
+	},
+	{
+		"abr": "darkangelgravishelmet",
+		"price": 9825,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_DA_GravisHelmet"
+	},
+	{
+		"abr": "darkangellieutenantmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_LT_DA_MkXHelmet"
+	},
+	{
+		"abr": "darkangelmkviiaquillaarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_DA_MkVIIArmor"
+	},
+	{
+		"abr": "darkangelmkviihelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_FB_DA_MkVIIHelmet"
+	},
+	{
+		"abr": "darkangelmkxhelmet",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "ODZ_40k_AS_DA_MkXHelmet"
+	},
+	{
+		"abr": "darkangelmkxtacticusarmor",
+		"price": 13067,
+		"category": "Armor",
+		"defname": "ODZ_40k_AS_DA_MkXArmor"
+	},
+	{
+		"abr": "darkangelstormshield",
+		"price": 392,
+		"category": "Shields",
+		"defname": "GW_DarkAngels-StormShield"
+	},
+	{
+		"abr": "deathkorpsgasmask",
+		"price": 208,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_DKOK_Gasmask"
+	},
+	{
+		"abr": "deathkorpsgrenadierarmor",
+		"price": 367,
+		"category": "Armor",
+		"defname": "ODZ_40k_IG_DKOK_GrenadierArmor"
+	},
+	{
+		"abr": "deathkorpsgrenadiergasmask",
+		"price": 211,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_DKOK_GrenadierGasmask"
+	},
+	{
+		"abr": "deathkorpsgrenadierhelmet",
+		"price": 475,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_DKOK_GrenadierHelmet"
+	},
+	{
+		"abr": "deathkorpshelmet",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ODZ_40k_IG_DKOK_Helmet"
 	}
 	],
-	"total": 4081
+	"total": 4168
 }
